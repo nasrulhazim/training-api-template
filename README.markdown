@@ -1,4 +1,4 @@
-# Slim Framework
+# S Framework, much slimmer than Slim Framework I guess?
 
 [![Build Status](https://travis-ci.org/slimphp/Slim.svg?branch=master)](https://travis-ci.org/slimphp/Slim)
 
